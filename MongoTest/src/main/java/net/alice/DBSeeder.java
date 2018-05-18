@@ -16,6 +16,7 @@ import net.alice.repository.HotelRepository;
 @Component
 public class DBSeeder  implements CommandLineRunner{
 	
+	/*asdsad*/
 	private HotelRepository hotelRepository;		
 	
 	public DBSeeder(HotelRepository hotelRepository) {
